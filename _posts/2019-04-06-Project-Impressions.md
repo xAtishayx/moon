@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project- Impressions"
-date:   2016-04-06
+date:   2019-04-06
 excerpt: "A unique concept of making CLI based app by using C language of our college fest 'Impressions'"
 project: true
 feature: assets/img/impressions/imp.jpg
@@ -43,5 +43,5 @@ See the [Github Repository](https://github.com/xAtishayx/Impressions)
 {% highlight yaml %}
 We have simplified the work of organizers by storing
 the details of registered users in files using file handling,
- linked list and basic concepts of C language.
+linked list and basic concepts of C language.
 {% endhighlight %}
