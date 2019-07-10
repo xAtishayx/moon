@@ -34,7 +34,7 @@ The Objective of making this project is to develop a program to enable students 
 * Clone or Download to run locally on your computer.
 ---
 {% capture images %}
-	assets/img/impressions/im2.jpg
+	assets/img/impressions/imp-2.jpg
 {% endcapture %}
 {% include gallery images=images caption="Results" cols=2 %}      
 
