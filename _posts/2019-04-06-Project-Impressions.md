@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project-Impressions"
+title:  "Project- Impressions"
 date:   2019-04-06
 excerpt: "A unique concept of making CLI based app by using C language of our college fest 'Impressions'"
 project: true
@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-![Firstlook](assets/img/impressions/imp-1.jpg)    
+![Firstlook](https://github.com/xAtishayx/xAtishayx.github.io/blob/master/assets/img/impressions/imp-1.jpg)    
 
 <center><b>Impressions</b> is the annual techno-cultural-managerial festival of JIIT</center>
 
