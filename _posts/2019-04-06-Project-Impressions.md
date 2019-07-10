@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project- Impressions"
+title:  "Project-Impressions"
 date:   2019-04-06
 excerpt: "A unique concept of making CLI based app by using C language of our college fest 'Impressions'"
 project: true
@@ -20,9 +20,10 @@ The Objective of making this project is to develop a program to enable students 
 
 ## Preview
 
-<img src="assets/img/impressions/imp-1.jpg">
-<img src="assets/img/impressions/imp-1.1.jpg">
-<img src="assets/img/impressions/imp1.2.jpg">
+<img src="assets/img/impressions/imp-1.jpg" />
+<img src="assets/img/impressions/imp-1.1.jpg" />
+<img src="assets/img/impressions/imp1.2.jpg" />
+
 ---
 ## Installation
 * Fork the Impressions Repository.
