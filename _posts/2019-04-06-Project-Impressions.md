@@ -20,23 +20,16 @@ The Objective of making this project is to develop a program to enable students 
 
 ## Preview
 
-{% capture images %}
- https://drive.google.com/file/d/1DYERJP2fklkDZR0TP8A0zreDR1-LWOBW/view?usp=sharing
- https://drive.google.com/open?id=1EqnyY0X0bN7yIB6Q4V-MnTdXSvG1ZKb2
- https://drive.google.com/open?id=1NETteTaSv-wiD57xf21FhpXUmLk-kO5g
-{% endcapture %}
-{% include gallery images=images caption="Screenshots " cols=3 %}
-
+<img src="assets/img/impressions/imp-1.jpg">
+<img src="assets/img/impressions/imp-1.1.jpg">
+<img src="assets/img/impressions/imp1.2.jpg">
 ---
 ## Installation
 * Fork the Impressions Repository.
 * Clone or Download to run locally on your computer.
 ---
-{% capture images %}
- https://drive.google.com/open?id=1af-ZML4_ryNXAi15sUi2MNFCw06sbVj1
-{% endcapture %}
-{% include gallery images=images caption="Results" cols=2 %}      
 
+<img src="assets/img/impressions/imp-2.jpg">
 See the [Github Repository](https://github.com/xAtishayx/Impressions)     
 
 
