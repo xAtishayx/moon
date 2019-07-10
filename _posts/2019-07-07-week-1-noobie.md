@@ -2,7 +2,7 @@
 layout: post
 title: "Week 1 - Noobie"
 date: 2019-07-07
-excerpt: "A ton of text to test readability with image feature."
+excerpt: "My First Blog."
 tags: [first post, image, feature]
 feature: assets/img/scss.png
 comments: true
