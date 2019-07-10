@@ -42,5 +42,7 @@ See the [Github Repository](https://github.com/xAtishayx/Impressions)
 
 
 {% highlight yaml %}
-We have simplified the work of organizers by storing the details of registered users in files using file handling, linked list and basic concepts of C language.
+We have simplified the work of organizers by storing
+the details of registered users in files using file handling,
+ linked list and basic concepts of C language.
 {% endhighlight %}
