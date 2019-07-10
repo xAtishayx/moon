@@ -16,13 +16,12 @@ comments: true
 
 The Objective of making this project is to develop a program to enable students to get to know about detailed description of events to be organized in Impressions 2019 and to get enrolled in their desired events by creating their unique ID.
 
-<iframe src="https://github.com/xAtishayx/Impressions" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
 
 ## Preview
 
 {% capture images %}
-	assets/img/impressions/imp-1.jpg
+	'assets/img/impressions/imp-1.jpg.'
   assets/img/impressions/imp-1.1.jpg
   assets/img/impressions/imp1.2.jpg
 {% endcapture %}
