@@ -1,7 +1,7 @@
 # Site
 title:              Atishay Srivastava
 bio:                'I am a developer with skills.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Used Moon, a jekyll theme for my blog cum portfolio."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Atishay_Logo.png'
@@ -37,8 +37,8 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            AtishaySri
+email:              atishay.srivastava.10@gmail.com
+#twitter:            AtishaySri
 facebook:           atishay.srivastava.10
 github-url:         xAtishayx
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
